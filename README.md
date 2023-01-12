@@ -34,4 +34,5 @@ For input pattern([1,2,3,4,5,6,7,8,9], '$') the pattern is :
 $ $ $ $ $ $ $ $ $
 ```
 
-you can also view other Asterisk Patterns [Here](https://github.com/Annas-Furquan-Pasha?tab=repositories)
+
+You can also view other Patterns [Here](https://github.com/Annas-Furquan-Pasha?tab=repositories)
